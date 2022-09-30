@@ -1,1 +1,2 @@
+Hello this is my first file. hi this is my first merge conflict.
 I m trying to create merge conflict issue.Hello this is my first file.
